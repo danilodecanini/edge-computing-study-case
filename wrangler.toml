@@ -1,0 +1,9 @@
+name = "edge-computing-study-case"
+main = "src/index.ts"
+compatibility_date = "2022-06-02"
+
+[vars]
+UPSTASH_REDIS_REST_URL = "https://global-key-gorilla-30346.upstash.io"
+
+# [secrets]
+# UPSTASH_REDIS_REST_TOKEN
